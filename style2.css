@@ -1,0 +1,13 @@
+*{
+    font font-family: times-new-roman;
+}
+header{
+   text-transform: capitalize; 
+   text-align: center;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
